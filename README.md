@@ -19,7 +19,7 @@
 <br />
 <br />
 
-Hi, I'm Stephan 😉, a programmer 👨🏻‍💻 and CEO of BGHDDevelopment currently living in Los Angeles. I have been working on Minecraft & GTA addons for years, along with creating some standalone games and software. Beside's programming, I like noodles and making videos.
+Hi, I'm Stephan, a programmer, student, entrepreneur, youtuber, and CEO of BGHDDevelopment! I am currently living in Los Angeles and have been working on Minecraft & GTA addons for years. I have also created some standalone games and software. Beside's programming, I like noodles and flying drones.
 
 
 ![BGHDDevelopments's github stats](https://github-readme-stats.vercel.app/api?username=bghddevelopment&show_icons=true&hide_border=true)
