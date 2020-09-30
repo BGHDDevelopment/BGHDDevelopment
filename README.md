@@ -1,5 +1,4 @@
-### Welcome to BGHDDevelopment's GitHub Page 👋
-
+### Welcome to BGHDDevelopment's GitHub Page
 <a href="https://bghddevelopment.com/discord">
   <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" />
 </a>
@@ -15,7 +14,6 @@
 <a href="https://youtube.com/BGHDDevelopment">
   <img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" />
 </a>
-
 <br />
 <br />
 
