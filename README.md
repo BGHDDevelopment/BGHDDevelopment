@@ -8,9 +8,6 @@
 <a href="ceo@bghddevelopment.com">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
-<a href="https://partreon.com/BGHDDevelopment">
-  <img align="left" alt="Patreon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/patreon.svg" />
-</a>
 <a href="https://youtube.com/BGHDDevelopment">
   <img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" />
 </a>
