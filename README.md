@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Hi, I'm Stephan! I am currently a UC Berkeley student majoring in Computer Science. I have been creating Minecraft plugins since 2016 releasing over 50 publicly and thousands privately. Recently I have also started working with FiveM C# development. This page is where I release my personal public projects and my company, BGHDDevelopment LLC's projects.
+Hi, I'm Stephan! I am currently a UC Berkeley student majoring in Computer Science. I have been creating Minecraft plugins since 2016 releasing over 50 publicly and thousands privately. Recently I have also started working with FiveM C# development. This page is where I release my personal public projects and my company's BGHDDevelopment LLC's projects.
 
 While 99% my school projects are private (due to class restrictions), most of my public resources are open source. Feel free to take a look. 
 
