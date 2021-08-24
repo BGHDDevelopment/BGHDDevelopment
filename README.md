@@ -2,7 +2,7 @@
 <a href="https://bghddevelopment.com/discord">
   <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" />
 </a>
-<a href="http://linkedin.com/StephanBaumHarvey">
+<a href="https://www.linkedin.com/in/stephanbaumharvey">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
 <a href="ceo@bghddevelopment.com">
