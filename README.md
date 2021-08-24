@@ -1,8 +1,8 @@
-### Welcome to BGHDDevelopment's GitHub Page
+### Welcome to Stephan's GitHub Page
 <a href="https://bghddevelopment.com/discord">
   <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" />
 </a>
-<a href="http://linkedin.com/company/bghddevelopment">
+<a href="http://linkedin.com/StephanBaumHarvey">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
 <a href="ceo@bghddevelopment.com">
@@ -14,7 +14,9 @@
 <br />
 <br />
 
-Hi, I'm Stephan, a programmer, student, entrepreneur, youtuber, and CEO of BGHDDevelopment LLC! I am currently living in Los Angeles and have been working on Minecraft & GTA addons for years. I have also created some standalone games and software. Beside's programming, I like noodles and flying drones.
+Hi, I'm Stephan! I am currently a UC Berkeley student majoring in Computer Science. I have been creating Minecraft plugins since 2016 releasing over 50 publicly and thousands privately. Recently I have also started working with FiveM C# development. This page is where I release my personal public projects and my company, BGHDDevelopment LLC's projects.
+
+While 99% my school projects are private (due to class restrictions), most of my public resources are open source. Feel free to take a look. 
 
 
 <div align="center">
@@ -22,4 +24,4 @@ Hi, I'm Stephan, a programmer, student, entrepreneur, youtuber, and CEO of BGHDD
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InventivetalentDev&theme=dark&layout=compact&langs_count=6"/>
 </div>
 
-⭐️ From [BGHDDevelopment](https://github.com/bghddevelopment)
+⭐️ - [Stephan](https://github.com/bghddevelopment)
