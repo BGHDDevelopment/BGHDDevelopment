@@ -18,10 +18,13 @@ Hi, I'm Stephan! I am currently a UC Berkeley student majoring in Computer Scien
 
 While 99% my school projects are private (due to class restrictions), most of my public resources are open source. Feel free to take a look. 
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/195961770353885184)](https://discord.com/users/195961770353885184)
+
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bghddevelopment&show_icons=true&hide_border=true&theme=dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InventivetalentDev&theme=dark&layout=compact&langs_count=6"/>
 </div>
+
 
 ⭐️ - [Stephan](https://github.com/bghddevelopment)
